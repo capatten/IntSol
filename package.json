@@ -1,0 +1,15 @@
+{
+  "name": "intsol",
+  "version": "1.0.0",
+  "description": "ain\u001bIntSol CLI program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chad Patten",
+  "license": "ISC",
+  "bin": {
+    "new-component": "./new_component.js"
+  },
+  "dependencies": {}
+}
