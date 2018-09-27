@@ -1,7 +1,7 @@
 {
   "name": "intsol",
   "version": "1.0.0",
-  "description": "ain\u001bIntSol CLI program",
+  "description": "IntSol CLI program",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
